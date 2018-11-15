@@ -28,3 +28,6 @@ springtravel-euraka-client-feign/.mvn/
 springtravel-eureka-client/.mvn/
 springtravel-eureka-server/.mvn/
 springtravel-eureka-server/target/
+spingtravel-eureka-client-ribbon/target/
+springtravel-euraka-client-feign/target/
+springtravel-eureka-client/target/
