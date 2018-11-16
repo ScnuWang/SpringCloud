@@ -11,3 +11,11 @@ Spring Boot 2.0.6 RELEASE
 Spring Cloud Finchley.RELEASE
 
 Spring Cloud Finchley.RELEASE 暂不支持2.1.x 和Java 9 或者 Java10
+
+
+
+消息总线:
+
+注意事项：
+1. 在执行http://localhost:8089/actuator/bus-refresh时，需要借助Postman工具发送Post请求，不能直接通过浏览器发送请求
+2. 安装RabbitMQ之后，要在本地启动，默认并没有启动
