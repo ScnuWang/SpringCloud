@@ -6,7 +6,7 @@
 
 JDK 1.8
 
-Spring Boot 2.0.5 RELEASE
+Spring Boot 2.0.6 RELEASE
 
 Spring Cloud Finchley.RELEASE
 
