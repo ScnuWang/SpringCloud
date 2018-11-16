@@ -31,3 +31,4 @@ springtravel-eureka-server/target/
 spingtravel-eureka-client-ribbon/target/
 springtravel-euraka-client-feign/target/
 springtravel-eureka-client/target/
+/springtravel-eureka-client-zuul/.mvn/
