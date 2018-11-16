@@ -12,8 +12,6 @@ Spring Cloud Finchley.RELEASE
 
 Spring Cloud Finchley.RELEASE 暂不支持2.1.x 和Java 9 或者 Java10
 
-
-
 消息总线:
 
 注意事项：
@@ -22,3 +20,9 @@ Spring Cloud Finchley.RELEASE 暂不支持2.1.x 和Java 9 或者 Java10
 
 一个应用启动多个Spring Boot工程实例：
 https://blog.csdn.net/u010194036/article/details/82458531
+
+断路器监控：
+
+注意事项：
+1. 博主有些代码没有吓出来，需要对照源码运行
+2. Hystrix Dashboard里面的tittle后面填写client的spring.application.name的值
